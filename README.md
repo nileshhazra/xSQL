@@ -1,10 +1,16 @@
-
+# xSQL
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Learning-blue?style=flat-square&logo=sqlite&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Progress-Daily%20Logs-brightgreen?style=flat-square&logo=github" alt="Progress Badge"/>
-  <img src="https://img.shields.io/badge/Data%20Domain-Exploration-orange?style=flat-square&logo=data-bricks&logoColor=white" alt="Data Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Domain-Exploration-orange?style=flat-square&logo=databricks&logoColor=white" alt="Data Badge"/>
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square&logo=markdown" alt="Markdown Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/>
+
 </p>
 
 ---
