@@ -1,4 +1,4 @@
-xSQL
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Learning-blue?style=flat-square&logo=sqlite&logoColor=white" alt="SQL Badge"/>
